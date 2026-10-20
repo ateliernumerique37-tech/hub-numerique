@@ -19,6 +19,8 @@ Elle présente un écosystème de projets autour de l’accessibilité numériqu
 - H2VL Connect : application interne de gestion associative, accès privé.
 - Audio Memo : jeu de mémoire sonore accessible.
 - Petits Chevaux : jeu accessible en PWA, public.
+- Pendu Accessible : jeu du pendu jouable au lecteur d'écran.
+- Météo Narrative : météo et vigilance racontées en langage simple.
 - Transport Tours : skill Alexa et API transport, démonstration sur demande.
 - Localisateur MCP : serveur MCP connecté à localisateur.org.
 - Apprenti Clavier : projet d’apprentissage du clavier avec lecteurs d’écran.
